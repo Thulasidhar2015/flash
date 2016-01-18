@@ -7,7 +7,7 @@ $db = new DB_FUNCTIONS();
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<title>Flash- Products</title>
+<title>Flash- About</title>
 <link rel="icon" type="image/png" href="images/icon.png"/>
 <link rel="Shortcut icon" href="images/icon.png">
 <link rel="stylesheet" type="text/css" href="css/styles.css" />
