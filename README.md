@@ -8,4 +8,4 @@
 <p> Click on (Download Zip) to download the files required to run the website.</p>
 <p> Extract all downloaded files into local server. (Ex: C:\EasyPHP-DevServer-14.1VC9\data\localweb\)</p>
 <p> Open any browser and type "localhost" in address bar.</p>
-<p> Execute the website in browser.(Note: EasyPHP must be ONLINE while executing)</p>
+<p> Execute the website in browser.(Note: EasyPHP must be STARTED while executing)</p>
