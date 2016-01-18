@@ -1,5 +1,5 @@
 <h1>Introduction</h1>
-<p>FLASH is an e-commerce comparison website that helps consumers to shop smartly by comparing the features of a product from differet e-commerce sites. The languages used to design our website are HTML,CSS and PHP Scripting Language.</p>
+<p>FLASH is an e-commerce comparison website that helps consumers to shop smartly by comparing the features of a product from differet e-commerce sites. The languages used to design our website are HTML,CSS,JavaScript and PHP.</p>
 <p>Note: The products included in our website are only mobiles.</p>
 <h1>Requirements</h1>
 <p>* Firefox or Google Chrome</p>
